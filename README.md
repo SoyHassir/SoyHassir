@@ -21,7 +21,5 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:hola@hassirlastre.com'>hola@hassirlastre.com</a> <br/>
-  <a href='http://www.hassirlastre.com/'>Webpage</a>
-  
+  📫 How to reach me: <a href='mailto:hola@hassirlastre.com'>hola@hassirlastre.com</a>  
 </p>
