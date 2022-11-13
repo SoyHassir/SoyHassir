@@ -19,7 +19,3 @@
   </a>&nbsp;&nbsp;
   
 </p>
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:hola@hassirlastre.com'>hola@hassirlastre.com</a>  
-</p>
