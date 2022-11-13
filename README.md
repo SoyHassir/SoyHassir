@@ -2,7 +2,7 @@
   Hi there, I am Hassir Lastre 💼 👨🏽‍💻
 </h1>
 <p align='center'>
-  Business administrator with skills in web development
+  Strategic and business manager with IT skills and knowledge focused on digital transformation, web development, business intelligence and data management
 </p>
 
 
