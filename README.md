@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there, I am Hassir Lastre 💼 👨🏽‍💻
+  Hi there, I am Hassir Lastre Sierra 💼 👨🏽‍💻
 </h1>
 <p align='center'>
   Strategic and business manager with IT skills and knowledge focused on digital transformation, web development, business intelligence and data management
